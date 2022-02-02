@@ -1,1 +1,2 @@
 Feature:   tuiana
+  Scenario: User
