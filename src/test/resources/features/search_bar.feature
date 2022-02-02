@@ -5,4 +5,4 @@ Scenario: Verify users can search valid information from search box
   When User Enters valid information
   Then User sees menu items and suggested modules below search box
 
-
+Scenario: Another scenario
